@@ -31,9 +31,9 @@
     "typescript": "^5.1.6"
   },
   "peerDependencies": {
-    "@prisma/client": "^6.0.0",
+    "@prisma/client": ">=6.0.0 <7.0.0",
     "casbin": "^5.16.0",
-    "prisma": "^6.0.0"
+    "prisma": ">=6.0.0 <7.0.0"
   },
   "files": [
     "lib",
